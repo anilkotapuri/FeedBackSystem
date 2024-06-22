@@ -1,0 +1,30 @@
+.data-dis td{
+    max-width: 100%;
+
+}
+.feed-info {
+    text-decoration: none;
+    display: inline;
+}
+li  {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  ul li{
+    display: inline;
+    font-size: 20px;
+  }
+  .submit{
+    background-color: #FFC55A;
+    height: 30px;
+    border-radius: 10px;
+  }

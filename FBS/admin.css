@@ -1,0 +1,101 @@
+body{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.login input{
+    width: 350px;
+    font-size: 15px; 
+    height: 50px;
+    border: 2px solid #FFC55A;
+    padding: 10px;
+    border-radius: 20px;
+}
+.login button{
+    width: 200px;
+  height: 50px;
+  font-size: 18px; 
+  background-color: #FFC55A;
+  padding: 10px;
+  border-radius: 20px;
+}
+.change input{
+  width: 350px;
+  font-size: 15px; 
+  height: 50px;
+  border: 2px solid #FFC55A;
+  padding: 10px;
+  border-radius: 20px;
+}
+.change button{
+  width: 200px;
+height: 50px;
+font-size: 18px; 
+background-color: #FFC55A;
+padding: 10px;
+border-radius: 20px;
+}
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #FFC55A;
+  }
+  
+  li {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  /* Center the table horizontally and vertically */
+.table-container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 80%; /* Adjust the width as needed */
+}
+
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #00215E;
+    color: #ffffff;
+  }
+  ul a{
+    color: black;
+    font-size: 18px;
+  }
+  .create-feed input{
+    width: 350px;
+    font-size: 15px; 
+    height: 50px;
+    border: 2px solid #FFC55A;
+    padding: 10px;
+    border-radius: 20px;
+
+  }
+  .create-feed select{
+    width: 350px;
+    font-size: 15px; 
+    height: 50px;
+    border: 2px solid #FFC55A;
+    padding: 10px;
+    border-radius: 20px;
+  }
+  .create-feed button{
+    width: 200px;
+    height: 50px;
+    font-size: 18px; 
+    background-color: #FFC55A;
+    padding: 10px;
+    border-radius: 20px;
+  }
+  
